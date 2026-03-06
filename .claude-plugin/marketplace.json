@@ -1,12 +1,12 @@
 {
   "name": "superpowers-marketplace",
   "owner": {
-    "name": "Jesse Vincent",
-    "email": "jesse@fsck.com"
+    "name": "Nadilson Ferreira",
+    "email": "nadilson@gmail.com"
   },
   "metadata": {
     "description": "Skills, workflows, and productivity tools",
-    "version": "1.0.13"
+    "version": "1.0.14"
   },
   "plugins": [
     {
@@ -16,7 +16,7 @@
         "url": "https://github.com/nferreira/superpowers.git"
       },
       "description": "Core skills library: TDD, debugging, collaboration patterns, and proven techniques",
-      "version": "4.3.1",
+      "version": "4.3.2",
       "strict": true
     },
     {
